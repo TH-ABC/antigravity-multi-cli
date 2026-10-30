@@ -1,0 +1,7 @@
+{
+  "hermes_enabled": false,
+  "hermes_endpoint": "http://127.0.0.1:8080/api/hermes/events",
+  "hermes_auth_token": "hermes-secret-key",
+  "zalo_direct_webhook": "",
+  "log_events": true
+}
